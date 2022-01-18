@@ -230,7 +230,7 @@ main {
 }
 
 hr {
-  border-top: 1px solid var(--darkGray);
+  border-top: 0.005px solid var(--darkGray);
   width: 99.5%;
 }
 
@@ -238,7 +238,7 @@ hr {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 0 41px;
+  margin: 20px 41px;
   text-align: center;
 }
 
